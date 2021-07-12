@@ -1,5 +1,5 @@
 {
-    "name": "thibaud-dauce/laravel-mattermost-logger",
+    "name": "hebrahimzadeh/laravel-mattermost-logger",
     "type": "library",
     "license": "MIT",
     "require": {
